@@ -6,7 +6,7 @@ body {
 }
 
 /* COVER */
-##cover {
+###cover {
   height: 100vh;
   background: url('cover.jpg') center/cover no-repeat;
   
@@ -17,13 +17,7 @@ body {
 
   text-align: center;
   position: relative;
-}) center/cover;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  text-align: center;
+}
 }
 
 #cover h1 {
